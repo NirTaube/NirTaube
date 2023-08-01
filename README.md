@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm [Nir] 👋
 
-<!--
-**NirTaube/NirTaube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist who loves turning raw data into actionable insights. I'm passionate about machine learning and data-driven decision making.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deep learning techniques with TensorFlow and PyTorch.
+- Big data technologies like Apache Spark and Hadoop.
+- Advanced SQL techniques for data manipulation and analysis.
+
+## 💻 Tech Stack
+
+- **Languages**: Python, SQL, R
+- **Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebooks, Google Colab, Git, GitHub
+
+## 📫 How to reach me
+
+- Email: [your-email@example.com](mailto:nirt96@gmail.com)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+
+## ⚡ Fun fact
+
+- In my spare time, I love to play chess and go hiking!
+
+---
+
+## 📈 My GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
+
