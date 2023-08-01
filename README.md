@@ -1,4 +1,4 @@
-# Hi there, I'm [Nir] 👋
+# Hi there, I'm Nir 👋
 
 I'm a Data Scientist who loves turning raw data into actionable insights. I'm passionate about machine learning and data-driven decision making.
 
@@ -17,7 +17,7 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 ## 📫 How to reach me
 
 - Email: [your-email@example.com](mailto:nirt96@gmail.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/nir-taube)
 
 ## ⚡ Fun fact
 
