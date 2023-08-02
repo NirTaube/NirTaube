@@ -16,8 +16,8 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:nirt96@gmail.com)
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/nir-taube)
+- [Nir's Personal email](mailto:nirt96@gmail.com)
+- [Nir's LinkedIn](www.linkedin.com/in/nir-taube)
 
 ## ⚡ Fun fact
 
