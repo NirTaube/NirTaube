@@ -27,5 +27,5 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 
 ## 📈 My GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirtaube)](https://github.com/yourusername/github-readme-stats)
 
