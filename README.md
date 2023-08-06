@@ -36,7 +36,7 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 ![Anaconda](https://img.shields.io/badge/ANACONDA-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-orange?style=flat&logoColor=white&color=orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -58,6 +58,14 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
   </a>
 </div>
 
+
+<div align="center">
+  <h2>🐍 Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nirtaube/Nirtaube/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ## ⚡ Fun fact
 
