@@ -45,8 +45,17 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 ## 📫 ![How to reach me](https://img.shields.io/badge/How%20to%20reach%20me-Contact%20Me-blue?style=flat&logoColor=white&color=blue)
 
 
-[![Mail](https://img.shields.io/badge/Gmail-minhasmunqiz@gmail.com-lightred.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:nirt96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir-taube/)
+<div align="center"> 
+  <a href="mailto:nirt96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/nir-taube" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://Nirtaube.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 
 ## ⚡ Fun fact
