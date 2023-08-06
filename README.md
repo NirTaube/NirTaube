@@ -1,5 +1,6 @@
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nir+Taube!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=900&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Nir+Taube!;" />
 </h1>
 
 I'm a Data Scientist who loves turning raw data into actionable insights. I'm passionate about machine learning and data-driven decision making.
