@@ -1,8 +1,10 @@
-# Hi there, I'm Nir 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nir+Taube!;" />
+</h1>
 
 I'm a Data Scientist who loves turning raw data into actionable insights. I'm passionate about machine learning and data-driven decision making.
 
-## 🌱 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Currently%20Learning-ff69b4?style=flat&logoColor=white&color=red)
+## 🌱 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-ff69b4?style=flat&logoColor=white&color=red)
 
 
 - Deep learning techniques with TensorFlow and PyTorch.
