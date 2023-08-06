@@ -5,7 +5,8 @@
 
 I'm a Data Scientist who loves turning raw data into actionable insights. I'm passionate about machine learning and data-driven decision making.
 
-Running ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+## Running
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🌱 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-ff69b4?style=flat&logoColor=white&color=red)
 
@@ -42,7 +43,6 @@ Running ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&l
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
