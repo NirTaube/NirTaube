@@ -5,6 +5,8 @@
 
 I'm a Data Scientist who loves turning raw data into actionable insights. I'm passionate about machine learning and data-driven decision making.
 
+Running ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 ## 🌱 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-ff69b4?style=flat&logoColor=white&color=red)
 
 
@@ -38,13 +40,15 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
 ![MS Excell](https://img.shields.io/badge/Excell-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 📫 ![How to reach me](https://img.shields.io/badge/How%20to%20reach%20me-Contact%20Me-blue?style=flat&logoColor=white&color=blue)
-
 
 <div align="center"> 
   <a href="mailto:nirt96@gmail.com">
@@ -58,18 +62,14 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
   </a>
 </div>
 
+## Professional Background
+With 8 years of management experience, I am a seasoned National Retail Sales Strategist adept at collaborating with C-level executives. I achieved a remarkable 30% increase in sales revenue for a jewelry business in just 3 years. As a skilled trainer, I implemented data analysis, and code to create platforms known to drive teams and improve KPIs. I thrive on harnessing my team's strengths to achieve collective success.
 
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nirtaube/Nirtaube/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## ⚡ Fun facts
 
-## ⚡ Fun fact
-
-- In my spare time, I love to play chess and go hiking!
+- Im certified in ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+- I used to be an avid skate boarder
+- Built my Frist engine in a 1989 300zx at the age of 17 ![Nissan](https://img.shields.io/badge/Nissan-C3002F?style=for-the-badge&logoColor=white)
 
 ---
 
