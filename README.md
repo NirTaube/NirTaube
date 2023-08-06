@@ -10,7 +10,7 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 - Advanced SQL techniques for data manipulation and analysis.
 - Block Chain Managment.
 
-## 💻 ![Tech Pack](https://img.shields.io/badge/Tech%20Stack-Tech%20stack-blue?style=flat&logoColor=white&color=007EC6)
+## 💻 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Languages%20-blue?style=flat&logoColor=white&color=007EC6)
 
 
 ![Keras](https://img.shields.io/badge/KERAS-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
