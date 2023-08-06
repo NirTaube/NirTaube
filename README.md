@@ -2,7 +2,7 @@
 
 I'm a Data Scientist who loves turning raw data into actionable insights. I'm passionate about machine learning and data-driven decision making.
 
-## 🌱 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Currently%20Learning-ff69b4?style=flat&logoColor=white&color=ff69b4)
+## 🌱 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Currently%20Learning-ff69b4?style=flat&logoColor=white&color=red)
 
 
 - Deep learning techniques with TensorFlow and PyTorch.
@@ -10,7 +10,7 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 - Advanced SQL techniques for data manipulation and analysis.
 - Block Chain Managment.
 
-## 💻 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Tech%20stack-blue?style=flat&logoColor=white&color=007EC6)
+## 💻 ![Tech Pack](https://img.shields.io/badge/Tech%20Stack-Tech%20stack-blue?style=flat&logoColor=white&color=007EC6)
 
 
 ![Keras](https://img.shields.io/badge/KERAS-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
