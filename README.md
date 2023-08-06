@@ -37,9 +37,10 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-orange?style=flat&logoColor=white&color=orange)
-![Big Data](https://img.shields.io/badge/Big%20Data-Apache%20Spark%20%7C%20Hadoop-326CE5?style=flat&logoColor=white&color=326CE5)
-![Advanced SQL](https://img.shields.io/badge/Advanced%20SQL-Data%20Manipulation%20%7C%20Analysis-FF8C00?style=flat&logoColor=white&color=FF8C00)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style-for-the-badge&logo=Blockchain&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
 ![MS Excell](https://img.shields.io/badge/Excell-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 📫 ![How to reach me](https://img.shields.io/badge/How%20to%20reach%20me-Contact%20Me-blue?style=flat&logoColor=white&color=blue)
