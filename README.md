@@ -42,8 +42,9 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 ## 📫 ![How to reach me](https://img.shields.io/badge/How%20to%20reach%20me-Contact%20Me-blue?style=flat&logoColor=white&color=blue)
 
 
-- [Nir's Personal email](mailto:nirt96@gmail.com)
-- [Nir's LinkedIn](www.linkedin.com/in/nir-taube)
+[![Gmail](https://img.shields.io/badge/Gmail-nirt96%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:nirt96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir-taube/)
+
 
 ## ⚡ Fun fact
 
