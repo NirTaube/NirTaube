@@ -68,10 +68,10 @@ With 8 years of management experience, I am a seasoned National Retail Sales Str
 ## ⚡ Fun facts
 
 - Im certified in
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 - I used to be an avid skate boarder
 - Built my Frist engine in a 1989 300zx at the age of 17
-  ![Nissan](https://img.shields.io/badge/Nissan-C3002F?style=for-the-badge&logoColor=white)
+![Nissan](https://img.shields.io/badge/Nissan-C3002F?style=for-the-badge&logoColor=white)
 
 ---
 
