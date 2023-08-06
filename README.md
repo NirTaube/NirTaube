@@ -42,8 +42,8 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 ## 📫 ![How to reach me](https://img.shields.io/badge/How%20to%20reach%20me-Contact%20Me-blue?style=flat&logoColor=white&color=blue)
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-nirt96%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:nirt96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir-taube/)
+[![Mail](https://img.shields.io/badge/Gmail-minhasmunqiz@gmail.com-lightred.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:nirt96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir-taube/)
 
 
 ## ⚡ Fun fact
