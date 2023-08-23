@@ -63,7 +63,46 @@ I'm a Data Scientist who loves turning raw data into actionable insights. I'm pa
 </div>
 
 ## Professional Background
-With 8 years of management experience, I am a seasoned National Retail Sales Strategist adept at collaborating with C-level executives. I achieved a remarkable 30% increase in sales revenue for a jewelry business in just 3 years. As a skilled trainer, I implemented data analysis, and code to create platforms known to drive teams and improve KPIs. I thrive on harnessing my team's strengths to achieve collective success.
+Hello Hiring Team!
+My Name is Nir, ( Like not far ). Living most my life in the United States, but have lived in Uruguay and Israel As well. 
+
+Leveraging over 8 years of experience as a Regional Manager and National Retail Sales Strategist, I am adept at harnessing the power of data analytics to drive strategic business improvements. My tenure with Karma and Luck fortified my skills in:
+
+Crafting profit-centric strategies using thorough market research and competitor analysis.
+Spearheading the launch of 7 stores, overseeing everything from hiring to operational setup.
+Implementing a new POS & CRM system, marking a significant 10% uptick in customer retention.
+My analytical prowess doesn't end with retail strategy. With 5+ years as a Data Analyst, I've distilled complex data into insightful, actionable business strategies. This technical expertise complements my leadership skills, having collaborated with C-level executives and achieved a stellar 30% sales revenue boost for a jewelry venture in a mere 3 years.
+
+I'm not just a strategist; I'm a trailblazer in implementing data-driven platforms known for propelling teams and elevating KPIs. At my core, I'm passionate about maximizing my team's potential, a trait that's led to collective successes throughout my career.
+
+Eager to bring this blend of analytical and strategic leadership to the role, I'm confident in my ability to deliver transformative results.
+
+I would be excited to get in touch and review my qualification and why i could be the game changing teammate to bring onboard!
+```
+
+It's possible that the question, or just a portion of it, requires relevant information from the internet to give a satisfactory answer. The relevant search results provided below, delimited by triple quotes, are the necessary information already obtained from the internet. The search results set the context for addressing the question, so you don't need to access the internet to answer the question.
+
+Write a comprehensive answer to the question in the best way you can. If necessary, use the provided search results.
+
+For your reference, today's date is 2023-08-22T23:22:55-04:00.
+
+---
+
+Use the following format for the answer:
+My Name is Nir, ( Like not far ). Living most my life in the United States, but have lived in Uruguay and Israel As well. 
+
+Leveraging over 8 years of experience as a Regional Manager and National Retail Sales Strategist, I am adept at harnessing the power of data analytics to drive strategic business improvement, fortifing my skills in:
+
+- Crafting profit-centric strategies using thorough market research and competitor analysis.
+- Spearheading the launch of 7 stores, overseeing everything from hiring to operational setup.
+- Implementing a new POS & CRM system, marking a significant 10% uptick in customer retention.
+- My analytical prowess doesn't end with retail strategy. With 5+ years as a Data Analyst, I've distilled complex data into insightful, actionable business strategies. This technical expertise complements my leadership skills, having collaborated with C-level executives and achieved a stellar 30% sales revenue boost for a jewelry venture in a mere 3 years.
+
+I'm not just a strategist; I'm a trailblazer in implementing data-driven platforms known for propelling teams and elevating KPIs. At my core, I'm passionate about maximizing my team's potential, a trait that's led to collective successes throughout my career.
+
+Eager to bring this blend of analytical and strategic leadership to the role, I'm confident in my ability to deliver transformative results.
+
+
 
 ## ⚡ Fun facts
 
