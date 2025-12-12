@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Nir+Taube;Senior+Full+Stack+Engineer;Shipping+Production+Systems;CRMs+%7C+Telephony+%7C+Real-Time+Dashboards"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Nir+Taube;Full+Stack+Engineer;Shipping+Production+Systems;CRMs+%7C+Telephony+%7C+Real-Time+Dashboards"
   />
 </p>
 
